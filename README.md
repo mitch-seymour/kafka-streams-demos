@@ -1,7 +1,7 @@
 # kafka-streams-demos
 
 # Quickstart
-Run this Kafka Streams app in the Confluent Platform sandbox by executing the following commands:
+Run this Kafka Streams app in the [Confluent Platform Sandbox][cp-sandbox] by executing the following commands:
 ```bash
 # clone this repo
 $ git clone https://github.com/mitch-seymour/kafka-streams-demos.git
@@ -44,3 +44,5 @@ Starting streams
 (Processor API) Hello, 1503275958331,User_2,Region_5,OTHER
 (Processor API) Hello, 1507181088524,User_8,Region_6,OTHER
 ```
+
+[cp-sandbox]: https://github.com/magicalpipelines/docker-cp-sandbox
